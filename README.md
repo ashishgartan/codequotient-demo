@@ -1,1 +1,1 @@
-This is frist repo in code quotient.
+This is first repo in code quotient.
