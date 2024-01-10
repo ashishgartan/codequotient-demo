@@ -1,3 +1,3 @@
 This is first repo in code quotient.
 <br>
-Author - Ashish Gartan
+Author - Ashish Gartan(Code Quotient)
